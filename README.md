@@ -45,5 +45,5 @@ We plan to track all the credits here but didn't constitute the full list.
 Wait for an update or ask to be credited.
 
 ## Contact
-
+.@
 contact(at)webgeodatavore(dot)com
